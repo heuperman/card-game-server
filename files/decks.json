@@ -1,0 +1,96 @@
+[
+  {
+    "id": "1",
+    "cards": [
+      {
+        "name": "plains",
+        "supertype": "basic",
+        "type": "land",
+        "subtypes": ["plains"]
+      },
+      {
+        "name": "plains",
+        "supertype": "basic",
+        "type": "land",
+        "subtypes": ["plains"]
+      },
+      {
+        "name": "plains",
+        "supertype": "basic",
+        "type": "land",
+        "subtypes": ["plains"]
+      },
+      {
+        "name": "plains",
+        "supertype": "basic",
+        "type": "land",
+        "subtypes": ["plains"]
+      },
+      {
+        "name": "plains",
+        "supertype": "basic",
+        "type": "land",
+        "subtypes": ["plains"]
+      },
+      {
+        "name": "plains",
+        "supertype": "basic",
+        "type": "land",
+        "subtypes": ["plains"]
+      },
+      {
+        "name": "plains",
+        "supertype": "basic",
+        "type": "land",
+        "subtypes": ["plains"]
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "cards": [
+      {
+        "name": "island",
+        "supertype": "basic",
+        "type": "land",
+        "subtypes": ["island"]
+      },
+      {
+        "name": "island",
+        "supertype": "basic",
+        "type": "land",
+        "subtypes": ["island"]
+      },
+      {
+        "name": "island",
+        "supertype": "basic",
+        "type": "land",
+        "subtypes": ["island"]
+      },
+      {
+        "name": "island",
+        "supertype": "basic",
+        "type": "land",
+        "subtypes": ["island"]
+      },
+      {
+        "name": "island",
+        "supertype": "basic",
+        "type": "land",
+        "subtypes": ["island"]
+      },
+      {
+        "name": "island",
+        "supertype": "basic",
+        "type": "land",
+        "subtypes": ["island"]
+      },
+      {
+        "name": "island",
+        "supertype": "basic",
+        "type": "land",
+        "subtypes": ["island"]
+      }
+    ]
+  }
+]
